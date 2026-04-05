@@ -1,0 +1,9 @@
+# See config.example.yml for documentation.
+object_base: orig/RMBE01
+object: sys/main.dol
+hash: 08236f3164360f08075459f1f7a76b16e25fe734
+symbols: config/RMBE01/symbols.txt
+splits: config/RMBE01/splits.txt
+# Change this to match the linker version.
+# See config.example.yml for a list.
+mw_comment_version: 11
