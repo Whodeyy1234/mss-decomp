@@ -178,10 +178,10 @@ config.ldflags = [
     "-nodefaults",
 ]
 if args.debug:
-    config.ldflags.append("-g")  # Or -gdwarf-2 for Wii linkers
+    config.ldflags.append("-gdwarf-2")  # Or -gdwarf-2 for Wii linkers
 if args.map:
     config.ldflags.append("-mapunused")
-    #config.ldflags.append("-listclosure") # For Wii linkers
+    config.ldflags.append("-listclosure") # For Wii linkers
 
 # Use for any additional files that should cause a re-configure when modified
 config.reconfig_deps = []
@@ -208,7 +208,7 @@ cflags_base = [
     "-RTTI off",
     "-fp_contract on",
     "-str reuse",
-    "-multibyte",  # For Wii compilers, replace with `-enc SJIS`
+    "-enc SJIS",  # For Wii compilers, replace with `-enc SJIS`
     "-i include",
     f"-i build/{config.version}/include",
     f"-DBUILD_VERSION={version_num}",
@@ -218,7 +218,7 @@ cflags_base = [
 # Debug flags
 if args.debug:
     # Or -sym dwarf-2 for Wii compilers
-    cflags_base.extend(["-sym on", "-DDEBUG=1"])
+    cflags_base.extend(["-sym dwarf-2", "-DDEBUG=1"])
 else:
     cflags_base.append("-DNDEBUG=1")
 
@@ -247,7 +247,7 @@ cflags_rel = [
     "-sdata2 0",
 ]
 
-config.linker_version = "GC/2.0"
+config.linker_version = "Wii/1.3"
 
 
 # Helper function for Dolphin libraries

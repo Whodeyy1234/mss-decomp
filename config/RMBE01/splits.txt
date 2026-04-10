@@ -12,3 +12,10 @@ Sections:
 	.sbss       type:bss align:16
 	.sdata2     type:rodata align:32
 	.sbss2      type:bss align:4
+
+Runtime.PPCEABI.H/__init_cpp_exceptions.cpp:
+	.text       start:0x80622370 end:0x806223E0
+	.ctors      start:0x80622C00 end:0x80622C04 rename:.ctors$10
+	.dtors      start:0x806233A0 end:0x806233A4 rename:.dtors$10
+	.dtors      start:0x806233A4 end:0x806233A8 rename:.dtors$15
+	.sdata      start:0x807942D0 end:0x807942D4
