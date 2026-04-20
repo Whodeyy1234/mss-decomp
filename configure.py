@@ -29,7 +29,8 @@ from tools.project import (
 # Game versions
 DEFAULT_VERSION = 0
 VERSIONS = [
-    "RMBE01",  # 0
+    "RMBE01",
+    "RMBJ01",
 ]
 
 parser = argparse.ArgumentParser()
