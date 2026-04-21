@@ -100,3 +100,10 @@ Download the latest release from [encounter/objdiff](https://github.com/encounte
 Select an object from the left sidebar to begin diffing. Changes to the project will rebuild automatically: changes to source files, headers, `configure.py`, `splits.txt` or `symbols.txt`.
 
 ![](assets/objdiff.png)
+
+Static Analysis
+===============
+
+There is an active static analysis project linked to this repository available on the [decomp.dev Ghidra server](https://github.com/Whodeyy1234/mss-decomp).
+
+The title of the project is `mss`. Feel free to request read access, the more eyes the better!
