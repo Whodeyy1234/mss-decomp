@@ -14,7 +14,7 @@ Sections:
 	.sbss2      type:bss align:32
 
 Runtime.PPCEABI.H/__init_cpp_exceptions.cpp:
-	.text       start:0x8061FFA8 end:0x8061FFE4
+	.text       start:0x8061FFA8 end:0x80620018
 	.ctors      start:0x80620820 end:0x80620824 rename:.ctors$10
 	.dtors      start:0x80620FC0 end:0x80620FC4 rename:.dtors$10
 	.dtors      start:0x80620FC4 end:0x80620FC8 rename:.dtors$15

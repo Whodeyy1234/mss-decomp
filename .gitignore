@@ -10,6 +10,7 @@ __pycache__
 
 # Original files
 orig/*/*
+!orig/*/*.torrent
 !orig/*/.gitkeep
 *.dol
 *.rel
