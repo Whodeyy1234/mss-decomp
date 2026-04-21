@@ -1,5 +1,7 @@
 Mario Super Sluggers
-[![Build Status]][actions] [![Code Progress]][progress] [![Data Progress]][progress] [![Discord Badge]][discord]
+[![Build Status]][actions] [![Code Progress]][progress] [![Data Progress]][progress] [![Discord Badge]][discord] 
+
+[![wakatime](https://wakatime.com/badge/user/85016631-21af-4af7-a0fc-5e8c648e855b/project/80647747-adb1-40ff-a8b3-83a5b0cee382.svg)](https://wakatime.com/badge/user/85016631-21af-4af7-a0fc-5e8c648e855b/project/80647747-adb1-40ff-a8b3-83a5b0cee382)
 ====================
 
 <!--
