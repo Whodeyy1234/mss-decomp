@@ -55,7 +55,7 @@ The USA/Canada Wii U version is almost identical to the retail USA/Canada versio
 > 00550140: 6000 c000 9016 00c4 6000 0000 2c1e 0000  `.......`...,...
 ```
 
-However, the Japanese Wii U release has much less in common with its retail counterpart. Some components are similar, while others are completely different. This is despite the fact that the Wii U binary and the retail binary are within 800 bytes of each other in terms of size.
+However, the Japanese Wii U release has much less in common with its retail counterpart, byte-wise. It does use the same versions of the RVL SDK, however.
 
 Current Status
 ==============
