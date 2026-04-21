@@ -31,6 +31,8 @@ DEFAULT_VERSION = 0
 VERSIONS = [
     "RMBE01",
     "RMBJ01",
+    "00050000101be100",
+    "00050000101be200",
 ]
 
 parser = argparse.ArgumentParser()
@@ -45,7 +47,7 @@ parser.add_argument(
     "-v",
     "--version",
     choices=VERSIONS,
-    type=str.upper,
+    type=str,
     default=VERSIONS[DEFAULT_VERSION],
     help="version to build",
 )
@@ -210,7 +212,8 @@ cflags_base = [
     "-fp_contract on",
     "-str reuse",
     "-enc SJIS",  # For Wii compilers, replace with `-enc SJIS`
-    "-i include",
+    "-i sdk_include",
+    "-i game_include",
     f"-i build/{config.version}/include",
     f"-DBUILD_VERSION={version_num}",
     f"-DVERSION_{config.version}",
@@ -305,6 +308,16 @@ config.libs = [
             # Add cpp files here
         ]
     },
+    {
+        "lib": "main",
+        "mw_version": config.linker_version,
+        "cflags": cflags_runtime,
+        "progress_category": "sdk",
+        "objects": [
+            # Add cpp files here
+        ]
+    },
+
 ]
 
 

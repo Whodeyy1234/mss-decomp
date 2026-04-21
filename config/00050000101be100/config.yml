@@ -1,0 +1,9 @@
+# See config.example.yml for documentation.
+object_base: orig/00050000101be100
+object: sys/main.dol
+hash: f24a3f6f3e2fbc947b0d140e357a07bb44ead588
+symbols: config/00050000101be100/symbols.txt
+splits: config/00050000101be100/splits.txt
+# Change this to match the linker version.
+# See config.example.yml for a list.
+mw_comment_version: 14
