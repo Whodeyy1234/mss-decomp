@@ -1,0 +1,66 @@
+Date,SDK Library,Decompiled Games,Other Games
+2007-05-08 12:54:34,AI,Brawl RSBE01_02 sys/main.dol,
+2007-08-08 01:58:12,AI,"Galaxy RMGK01_{01,02} sys/main.dol; MKW (everywhere except Korea) sys/main.dol; Sluggers RMBE01 & USA Wii U sys/main.dol",Brawl RSBP01_01 sys/main.dol; MKW (Korea) sys/main.dol; Sluggers RMBJ01 & JPN Wii U sys/main.dol
+2007-05-08 12:54:39,AX,Brawl RSBE01_02 sys/main.dol,
+2007-08-08 01:58:18,AX,MKW (everywhere except Korea) sys/main.dol; Sluggers RMBE01 & USA Wii U sys/main.dol,Brawl RSBP01_01 sys/main.dol; MKW (Korea) sys/main.dol; Sluggers RMBJ01 & JPN Wii U sys/main.dol
+2007-05-08 12:54:50,CARD,Brawl RSBE01_02 sys/main.dol,
+2007-08-08 01:58:35,CARD,,Brawl RSBP01_01 sys/main.dol
+2007-08-08 02:10:20,CNT,MKW (everywhere except Korea) sys/main.dol,Brawl RSBP01_01 sys/main.dol; MKW (Korea) sys/main.dol
+2007-05-08 12:55:11,DSP,Brawl RSBE01_02 sys/main.dol,
+2007-08-08 01:59:06,DSP,"Galaxy RMGK01_{01,02} sys/main.dol; MKW (everywhere except Korea) sys/main.dol; Sluggers RMBE01 & USA Wii U sys/main.dol",Brawl RSBP01_01 sys/main.dol; MKW (Korea) sys/main.dol; Sluggers RMBJ01 & JPN Wii U sys/main.dol
+2007-08-02 01:46:28,DVD,Brawl RSBE01_02 sys/main.dol,
+2007-08-08 01:59:13,DVD,MKW (everywhere except Korea) sys/main.dol; Sluggers RMBE01 & USA Wii U sys/main.dol,Brawl RSBP01_01 sys/main.dol; Sluggers RMBJ01 & JPN Wii U sys/main.dol
+2008-02-22 06:17:35,DVD,"Galaxy RMGK01_{01,02} sys/main.dol",MKW (Korea) sys/main.dol
+2007-12-25 05:12:24,DWC,Brawl RSBE01_02 sys/main.dol,
+2008-03-01 09:50:41,DWC,MKW (everywhere except Korea) sys/main.dol,MKW (Korea) sys/main.dol
+2007-08-08 02:10:13,ENC,MKW (everywhere except Korea) sys/main.dol,MKW (Korea) sys/main.dol
+2007-06-06 02:56:20,EXI,Brawl RSBE01_02 sys/main.dol,
+2007-08-08 01:59:22,EXI,"Galaxy RMGK01_{01,02} sys/main.dol; MKW (everywhere except Korea) sys/main.dol; Sluggers RMBE01 & USA Wii U sys/main.dol",Brawl RSBP01_01 sys/main.dol; MKW (Korea) sys/main.dol; Sluggers RMBJ01 & JPN Wii U sys/main.dol
+2007-05-08 12:59:16,GX,Brawl RSBE01_02 sys/main.dol,
+2007-08-08 02:05:28,GX,,Sluggers RMBJ01 & JPN Wii U sys/main.dol
+2007-12-11 01:34:15,GX,"Galaxy RMGK01_{01,02} sys/main.dol; MKW (everywhere except Korea) sys/main.dol; Sluggers RMBE01 & USA Wii U sys/main.dol",Brawl RSBP01_01 sys/main.dol; MKW (Korea) sys/main.dol
+2007-05-11 09:53:34,HBM,Brawl RSBE01_02 sys/main.dol,
+2007-10-01 06:59:14,HBM,Sluggers RMBE01 & USA Wii U sys/main.dol,Sluggers RMBJ01 & JPN Wii U sys/main.dol
+2007-11-22 02:57:36,HBM,MKW (everywhere except Korea) sys/main.dol,
+2007-11-22 02:58:50,HBM,,Brawl RSBP01_01 sys/main.dol
+2008-04-24 11:35:11,HBM,,MKW (Korea) sys/main.dol
+2007-06-28 02:03:26,KPAD,Brawl RSBE01_02 sys/main.dol,
+2007-08-08 02:05:53,KPAD,MKW (everywhere except Korea) sys/main.dol; Sluggers RMBE01 & USA Wii U sys/main.dol,Brawl RSBP01_01 sys/main.dol; MKW (Korea) sys/main.dol; Sluggers RMBJ01 & JPN Wii U sys/main.dol
+2008-06-03 11:53:11,KPAD,"Galaxy RMGK01_{01,02} sys/main.dol",
+2007-03-02 08:52:19,MWM_TMC_JPEG070302,Brawl RSBE01_02 sys/main.dol,
+2007-05-08 01:01:45,NAND,Brawl RSBE01_02 sys/main.dol,
+2007-08-08 02:08:58,NAND,,Sluggers RMBJ01 & JPN Wii U sys/main.dol
+2007-12-11 01:35:48,NAND,"Galaxy RMGK01_{01,02} sys/main.dol; MKW (everywhere except Korea) sys/main.dol; Sluggers RMBE01 & USA Wii U sys/main.dol",Brawl RSBP01_01 sys/main.dol; MKW (Korea) sys/main.dol
+2007-06-28 06:29:29,NCD,Brawl RSBE01_02 sys/main.dol,
+2007-12-10 10:02:22,NCD,MKW (everywhere except Korea) sys/main.dol,MKW (Korea) sys/main.dol
+2007-06-27 04:27:59,NHTTP,Brawl RSBE01_02 sys/main.dol,
+2007-10-11 08:49:15,NHTTP,MKW (everywhere except Korea) sys/main.dol,MKW (Korea) sys/main.dol
+2007-06-28 06:29:32,NWC24,Brawl RSBE01_02 sys/main.dol,
+2007-12-10 10:02:25,NWC24,"Galaxy RMGK01_{01,02} sys/main.dol; MKW (everywhere except Korea) sys/main.dol",MKW (Korea) sys/main.dol
+2007-09-07 02:14:12,OS,Brawl RSBE01_02 sys/main.dol,
+2007-10-03 01:00:37,OS,,Sluggers RMBJ01 & JPN Wii U sys/main.dol
+2008-01-28 09:31:54,OS,MKW (everywhere except Korea) sys/main.dol,MKW (Korea) sys/main.dol
+2008-01-30 01:38:43,OS,"Galaxy RMGK01_{01,02} sys/main.dol; Sluggers RMBE01 & USA Wii U sys/main.dol",Brawl RSBP01_01 sys/main.dol
+2007-05-08 01:00:22,PAD,Brawl RSBE01_02 sys/main.dol,
+2007-10-03 01:00:54,PAD,MKW (everywhere except Korea) sys/main.dol,Brawl RSBP01_01 sys/main.dol; MKW (Korea) sys/main.dol
+2008-01-28 03:34:44,RFL,MKW (everywhere except Korea) sys/main.dol,MKW (Korea) sys/main.dol
+2008-03-06 05:40:04,RFL,"Galaxy RMGK01_{01,02} sys/main.dol",
+2007-05-08 01:01:49,SC,Brawl RSBE01_02 sys/main.dol,
+2007-08-08 02:09:03,SC,MKW (everywhere except Korea) sys/main.dol; Sluggers RMBE01 & USA Wii U sys/main.dol,Brawl RSBP01_01 sys/main.dol; Sluggers RMBJ01 & JPN Wii U sys/main.dol
+2008-02-22 06:21:38,SC,"Galaxy RMGK01_{01,02} sys/main.dol",MKW (Korea) sys/main.dol
+2007-05-08 01:00:23,SI,Brawl RSBE01_02 sys/main.dol,
+2007-08-08 02:07:10,SI,"Galaxy RMGK01_{01,02} sys/main.dol; MKW (everywhere except Korea) sys/main.dol; Sluggers RMBE01 & USA Wii U sys/main.dol",Brawl RSBP01_01 sys/main.dol; MKW (Korea) sys/main.dol; Sluggers RMBJ01 & JPN Wii U sys/main.dol
+2007-06-28 06:29:42,SO,Brawl RSBE01_02 sys/main.dol,
+2007-12-10 10:02:35,SO,MKW (everywhere except Korea) sys/main.dol,MKW (Korea) sys/main.dol
+2007-06-28 06:29:43,SOCKET,Brawl RSBE01_02 sys/main.dol,
+2007-12-10 10:02:35,SOCKET,MKW (everywhere except Korea) sys/main.dol,MKW (Korea) sys/main.dol
+2007-06-21 01:10:10,SSL,Brawl RSBE01_02 sys/main.dol,
+2007-11-06 11:10:08,SSL,MKW (everywhere except Korea) sys/main.dol,MKW (Korea) sys/main.dol
+2007-05-08 12:30:45,THP,Brawl RSBE01_02 sys/main.dol,
+2007-08-08 01:31:54,THP,"Galaxy RMGK01_{01,02} sys/main.dol; MKW (everywhere except Korea) sys/main.dol; Sluggers RMBE01 & USA Wii U sys/main.dol",MKW (Korea) sys/main.dol; Sluggers RMBJ01 & JPN Wii U sys/main.dol
+2007-06-06 03:01:19,VI,Brawl RSBE01_02 sys/main.dol,
+2007-08-08 02:07:17,VI,"Galaxy RMGK01_{01,02} sys/main.dol; MKW (everywhere except Korea) sys/main.dol; Sluggers RMBE01 & USA Wii U sys/main.dol",Brawl RSBP01_01 sys/main.dol; MKW (Korea) sys/main.dol; Sluggers RMBJ01 & JPN Wii U sys/main.dol
+2007-06-28 02:04:52,WPAD,Brawl RSBE01_02 sys/main.dol,
+2007-08-08 02:07:23,WPAD,,Sluggers RMBJ01 & JPN Wii U sys/main.dol
+2007-12-11 01:35:07,WPAD,"Galaxy RMGK01_{01,02} sys/main.dol; Sluggers RMBE01 & USA Wii U sys/main.dol",Brawl RSBP01_01 sys/main.dol
+2008-01-29 09:01:28,WPAD,MKW (everywhere except Korea) sys/main.dol,MKW (Korea) sys/main.dol

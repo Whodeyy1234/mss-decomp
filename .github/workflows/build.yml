@@ -17,9 +17,9 @@ jobs:
         # Add game versions here
         version: 
           - "RMBE01"
-          - "RMBJ01"
-          - "00050000101be100"
-          - "00050000101be200"
+            #          - "RMBJ01"
+            #          - "00050000101be100"
+            #          - "00050000101be200"
 
     steps:
     # Checkout the repository

@@ -30,9 +30,9 @@ from tools.project import (
 DEFAULT_VERSION = 0
 VERSIONS = [
     "RMBE01",
-    "RMBJ01",
-    "00050000101be100",
-    "00050000101be200",
+#    "RMBJ01",
+#    "00050000101be100",
+#    "00050000101be200",
 ]
 
 parser = argparse.ArgumentParser()
